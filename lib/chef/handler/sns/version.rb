@@ -30,7 +30,7 @@ class Chef
       #
       # chef-handler-sns Ruby Gem version.
       #
-      VERSION = '2.2.0.dev'.freeze
+      VERSION = '3.0.0.dev'.freeze
     end
   end
 end
